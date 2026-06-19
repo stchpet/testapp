@@ -3,7 +3,7 @@
 testreadme
 
 ```
-Hier könnte ihr Code stehen.
+Hier könnte Ihr Code stehen.
 
 ```
 
